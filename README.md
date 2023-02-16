@@ -31,3 +31,4 @@
 * What is the most common reason for flight cancellations?
 * Top 10 airlines with the most cancellations
 * What time of day is more common to have flight cancellations?
+* Top 10 cancelled flights by origin
