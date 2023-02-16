@@ -30,4 +30,4 @@
   * Late Aircraft
 * What is the most common reason for flight cancellations?
 * Top 10 airlines with the most cancellations
-* Percenatge of cancelled flights
+* What time of day is more common to have flight cancellations?
