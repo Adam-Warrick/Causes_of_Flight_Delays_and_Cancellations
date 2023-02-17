@@ -1,6 +1,13 @@
 ![plane.png](https://github.com/Adam-Warrick/project/blob/Dev/plane.png)
 
 
+# Project Status 2/16/23
+
+* Visualizations have been determined and created. 
+* ML Module is nearing completion. We have a current accuracy of 77%. Working towards getting that to =>80%
+* Powerpoint is 90% Complete
+* The finishline is near!
+
 ## Overview/Purpose
 
 Flight delays can have a significant economic and social impact on both individuals and organizations. By studying flight delay and cancellation data we can identify trends and patterns, pinpoint the causes of delays, and develop strategies to mitigate their effects. The information we are analyzing is crucial as airline companies need to ensure that air travel is safe, efficient, and reliable. Using Machine learning, we can help passengers make informed decisions about their travel plans. Such as choosing the best time to fly or selecting a carrier with a good on-time performance record.
