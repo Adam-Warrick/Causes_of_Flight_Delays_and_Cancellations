@@ -10,7 +10,10 @@
 
 ## Overview/Purpose
 
-Flight delays can have a significant economic and social impact on both individuals and organizations. By studying flight delay and cancellation data we can identify trends and patterns, pinpoint the causes of delays, and develop strategies to mitigate their effects. The information we are analyzing is crucial as airline companies need to ensure that air travel is safe, efficient, and reliable. Using Machine learning, we can help passengers make informed decisions about their travel plans. Such as choosing the best time to fly or selecting a carrier with a good on-time performance record.
+It is crucial for airline companies to ensure that air travel is safe, efficient, and reliable. 
+Flight delays can have a significant economic and social impact on both individuals and organizations. We have identified trends to pinpoint the causes of delays to help develop strategies to mitigate their effects. 
+Using Machine learning, we can help passengers have informed expectations about their travel plans. Such as choosing the best time to fly or selecting a carrier with a good on-time performance record.
+
 
 As you can see in the data set link below, we used numerous columns and rows to help us analyze the data to the best of our ability. 
 
